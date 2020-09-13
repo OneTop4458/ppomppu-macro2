@@ -1,8 +1,9 @@
 # 뽐뿌 매크로
-> 뽐쿠폰 획득을 위한 자동 댓글 매크로 입니다.
+> 뽐뿌 레벨업을 위한 자동 댓글 매크로 입니다.
+> 유머/감동 게시판에 70초마다 댓글을 남깁니다.
 
 ## 사용 방법
-1. `git clone https://github.com/OneTop4458/ppomppu-macro.git`
+1. `git clone https://github.com/OneTop4458/ppomppu-macro2.git`
 > 오른쪽 중반 Clone or download 버튼 클릭 > Download Zip을 클릭하여 다운로드 하는 방법도 가능합니다.
 2. `압축 해제`
 3. `python-3.8.0.exe 설치`
@@ -31,5 +32,5 @@
 버그 등이 발생하면 이슈로 등록해 주시거나, 문제가 되는 부분을 수정하신 후 PR해 주시면 감사하겠습니다.
 
 ## 라이선스
-이 매크로는 [MIT 라이선스](https://github.com/OneTop4458/ppomppu-macro/blob/master/LICENSE)를 적용받습니다.
+이 매크로는 [MIT 라이선스](https://github.com/OneTop4458/ppomppu-macro2/blob/master/LICENSE)를 적용받습니다.
 
